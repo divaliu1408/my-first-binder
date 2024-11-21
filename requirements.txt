@@ -1,4 +1,3 @@
 numpy==1.25.0
 mne
-io
 requests
